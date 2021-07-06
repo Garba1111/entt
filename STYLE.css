@@ -1,0 +1,71 @@
+.logo{
+background-color: rgb(238, 238, 231);
+height: 1;
+width: 1;
+text-align: center;
+}
+.nav{
+
+    background-color:rgb(238, 238, 231);
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: space-around;
+    position: sticky;
+    top: 0;
+    align-items: center;
+    border-style: double;
+    border-radius: 10px;
+}
+.nav a{
+ text-align: center;
+    padding: auto;
+    color: #000;
+    border-style: groove;
+    border-spacing: 70px; 
+    margin: 10px;
+    border-radius: 5px;
+}
+.insight{
+background-color:rgb(238, 238, 231); ;
+font-style: italic;
+font-family: 'Courier New', Courier, monospace;
+}
+.sub{
+
+    background-color: black;
+    width: 400px;
+    height: 250px;
+    
+    justify-content: left;
+padding: 20px;
+margin: 29px;
+
+}
+.observe{
+    background-color:rgb(238, 238, 231);
+    font-style: italic;
+font-family: 'Courier New', Courier, monospace;
+border: black;
+    
+}
+.services{
+    background-color:rgb(238, 238, 231);
+    font-style: italic;
+font-family: 'Courier New', Courier, monospace;
+border: black;}
+
+.aa{
+    border-radius: 10px;
+    border-style: groove;
+}
+.contacts{
+    background-color:rgb(238, 238, 231);
+    font-style: italic;
+font-family: 'Courier New', Courier, monospace;
+border: black;
+
+justify-content: space-around;
+display: contents;
+
+}
